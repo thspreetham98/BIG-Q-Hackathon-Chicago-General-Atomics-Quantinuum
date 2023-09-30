@@ -5,3 +5,4 @@ qiskit
 qiskit_algorithms
 qiskit_nature
 qiskit-aer
+pylatexenc
