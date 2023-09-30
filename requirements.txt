@@ -1,0 +1,7 @@
+notebook
+matplotlib
+numpy
+qiskit
+qiskit_algorithms
+qiskit_nature
+qiskit-aer
