@@ -6,3 +6,6 @@ qiskit_algorithms
 qiskit_nature
 qiskit-aer
 pylatexenc
+pytket
+pytket-quantinuum
+pytket-qiskit
